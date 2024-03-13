@@ -18,7 +18,7 @@ Brief description of the project. What does it do? Why was it created?
 
 List of features and functionalities of the project. This can include bullet points or a detailed description.
 
-- Feature 1
+- Feature 
 - Feature 2
 - ...
 
