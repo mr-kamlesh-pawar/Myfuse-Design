@@ -1,3 +1,7 @@
+<<<<<<<<< Temporary merge branch 1
+# abhi
+my name is abhishek dangle i am changed in my pc
+=========
 # Project Name
 
 Brief description of the project. What does it do? Why was it created?
@@ -25,3 +29,4 @@ Instructions on how to install and set up the project locally. This should inclu
 ```bash
 $ npm install
 $ npm start
+>>>>>>>>> Temporary merge branch 2
